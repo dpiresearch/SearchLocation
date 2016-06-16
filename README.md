@@ -20,3 +20,7 @@ and fed that through py/convertIP.py
 The output gave me the same lines, except the ip addresses are now replaced by a number representation of the ip address (aka ASN)
 
 The LatLngs associated with the ASN can be find via the Maxmind database.  This was achieved by the pig script pig/getSearchLatLng.pig
+
+The resulting file was then fed into Tableau to achieve the resulting visualization
+
+http://public.tableausoftware.com/views/MX_KW/bubblechart_kw?:embed=y&:display_count=no

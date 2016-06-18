@@ -8,7 +8,7 @@ http://dev.maxmind.com/geoip/legacy/geolite/
 
 Visualization results on Tableau public:
 
-http://public.tableausoftware.com/views/MX_KW/bubblechart_kw?:embed=y&:display_count=no
+http://public.tableau.com/profile/dpiresearch#!/vizhome/MX_KW/latlngkw_average
 
 ## Details
 
@@ -26,4 +26,4 @@ The LatLngs associated with the ASN can be found via the Maxmind database.  This
 
 The resulting file was then fed into Tableau to achieve the resulting visualization:
 
-http://public.tableausoftware.com/views/MX_KW/bubblechart_kw?:embed=y&:display_count=no
+http://public.tableau.com/profile/dpiresearch#!/vizhome/MX_KW/latlngkw_average
